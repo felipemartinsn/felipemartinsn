@@ -13,4 +13,3 @@ Introduzido ao Machine Learning aos 16 anos durante um projeto de Iniciação Ci
 
 ---
 [![](https://visitcount.itsvg.in/api?id=felipemartinsn&icon=0&color=1)](https://visitcount.itsvg.in)
--->

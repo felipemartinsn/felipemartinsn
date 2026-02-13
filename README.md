@@ -1,7 +1,3 @@
-# About Me:
-Introduzido ao Machine Learning aos 16 anos durante um projeto de Iniciação Científica (PIBIC), desenvolvi um forte interesse por dados, aprendizado de máquina e visão computacional. Desde então, venho aprofundando meus conhecimentos em análise, modelagem e engenharia de dados.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipemartinsn) 
 
